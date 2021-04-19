@@ -1,1 +1,1 @@
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+клик [сюда](https://github.com/raslboyy/DZ3/blob/main/main.ipynb).
